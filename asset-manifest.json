@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/moralis-test/static/css/main.d7547ddf.css",
+    "main.js": "/moralis-test/static/js/main.7082b256.js",
+    "service-worker.js": "/moralis-test/service-worker.js",
+    "static/media/Coin98.png": "/moralis-test/static/media/Coin98.1e4e40738d77467e19ba.png",
+    "static/media/wallet-connect.svg": "/moralis-test/static/media/wallet-connect.304e327744ae5c9b1b62b58f50df6734.svg",
+    "TokenPocket.svg": "/moralis-test/0ba487424539ab81b79fe14307e77334.svg",
+    "static/media/MathWallet.svg": "/moralis-test/static/media/MathWallet.19212234cfaec388ea6f339d0cea9df9.svg",
+    "SafePal.svg": "/moralis-test/e7068bbce0757878c2ef3e30191ce580.svg",
+    "index.html": "/moralis-test/index.html",
+    "main.d7547ddf.css.map": "/moralis-test/static/css/main.d7547ddf.css.map",
+    "main.7082b256.js.map": "/moralis-test/static/js/main.7082b256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7547ddf.css",
+    "static/js/main.7082b256.js"
+  ]
+}
